@@ -19,7 +19,7 @@ jobs:
         uses: Platane/snk/svg-only@v2
         with:
           node-version: 16
-          github_user_name: uday510
+          github_user_name: ${{ uday510 }}
           outputs: dist/snake.svg
 
 
