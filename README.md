@@ -7,17 +7,6 @@
 <h3 align="center">A passionate SWE from Earth 🌏</h3>
 
 <br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **a react app**
- 
-
- 💬 Ask me about **Node.js, React, MongoDB... or anything [here](https://github.com/uday510/uday510/issues)**
-
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
- 
- </div>
  
 <div align="center"> 
   <a href="mailto:admin@udayteja.com">
